@@ -1,0 +1,39 @@
+{
+  "name": "coreui-angular",
+  "description": "Open Source Bootstrap Admin Template",
+  "main": "",
+  "authors": [
+    "Tom Stanczyk"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Bootstrap",
+    "Admin",
+    "Template",
+    "Open",
+    "Source",
+    "AngularJS",
+    "Angular",
+    "Angular2",
+    "jQuery",
+    "CSS",
+    "HTML",
+    "RWD",
+    "Dashboard",
+    "Vue",
+    "Vue.js",
+    "Vuejs",
+    "React",
+    "React.js",
+    "Reactjs"
+  ],
+  "homepage": "https://github.com/74Labs/CoreUI-Free-Bootstrap-Admin-Template-Angular-Only",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
