@@ -9,25 +9,10 @@
   "keywords": [
     "Bootstrap",
     "Admin",
-    "Template",
-    "Open",
-    "Source",
     "AngularJS",
-    "Angular",
-    "Angular2",
-    "jQuery",
-    "CSS",
-    "HTML",
-    "RWD",
-    "Dashboard",
-    "Vue",
-    "Vue.js",
-    "Vuejs",
-    "React",
-    "React.js",
-    "Reactjs"
+    "Angular"
   ],
-  "homepage": "https://github.com/74Labs/CoreUI-Free-Bootstrap-Admin-Template-Angular-Only",
+  "homepage": "https://github.com/74Labs/coreui-angular",
   "private": true,
   "ignore": [
     "**/.*",
