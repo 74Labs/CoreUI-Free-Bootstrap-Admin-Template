@@ -1,8 +1,9 @@
 {
   "name": "coreui-angular",
   "description": "Open Source Bootstrap Admin Template",
-  "main": "",
+  "main": [],
   "authors": [
+    "Lukasz Holeczek",
     "Tom Stanczyk"
   ],
   "license": "MIT",
@@ -15,7 +16,6 @@
   "homepage": "https://github.com/74Labs/coreui-angular",
   "private": true,
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
